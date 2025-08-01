@@ -26,10 +26,10 @@ const Header = () => {
             />
             <div className="flex flex-col">
               <h1 className="text-xl font-bold text-white">
-                Guincho 24H
+                Minerinho Guincho
               </h1>
               <span className="text-sm text-gray-200">
-                Aracaju
+                Guincho 24 Horas
               </span>
             </div>
           </div>

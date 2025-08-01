@@ -10,7 +10,7 @@ const Hero = () => {
       id="home" 
       className="min-h-screen relative overflow-hidden flex items-center justify-center text-center"
       style={{
-        backgroundImage: "url('/lovable-uploads/b911e7f9-0dee-496a-b66b-d690c0800783.png')",
+        backgroundImage: "url(\"/new_background.png\")",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat'
